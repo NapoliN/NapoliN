@@ -1,4 +1,16 @@
 ### Hi there 👋
+I'm studying CS at Tokyo Institute of Technology.
+Portfolio: https://napolin.github.io/
+
+### Languages
+- Python
+- C/C++
+- JavaScript/TypeScript
+
+### Hobby
+- pixelart
+- travel
+- board game
 
 <!--
 **NapoliN/NapoliN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
