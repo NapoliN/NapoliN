@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm studying CS at Tokyo Institute of Technology.
+I'm studying CS at Institute of Science Tokyo.
 Portfolio: https://napolin.github.io/
 
 ### Languages
