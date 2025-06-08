@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm studying CS at Institute of Science Tokyo.
+I have a master degree from Institute of Science Tokyo.
 
 ### Languages
 - Python
